@@ -4,4 +4,4 @@ This is a collection of frontend projects I have developed. Feel free to navigat
 
 ## List of Projects:
 
-1. [Advice Generator](https://random-advice-gen.vercel.app/)
+1. <a href="https://random-advice-gen.vercel.app/" target="_blank">Advice Generator</a>
